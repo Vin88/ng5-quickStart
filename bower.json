@@ -1,0 +1,21 @@
+{
+  "name": "ng5-quick-start",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Vinothini T <vt6034@att.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/vishwackh/ng5-quickStart",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3",
+    "components-font-awesome": "^4.7.0"
+  }
+}
